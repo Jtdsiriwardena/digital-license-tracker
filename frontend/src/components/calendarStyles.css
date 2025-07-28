@@ -1,0 +1,9 @@
+.tile-safe {
+  background-color: #bbf7d0 !important; /* green-200 */
+}
+.tile-attention {
+  background-color: #fde68a !important; /* yellow-200 */
+}
+.tile-soon {
+  background-color: #fecaca !important; /* red-200 */
+}
